@@ -1,0 +1,4 @@
+1,Mateusz,S,abc@gmail.com,abc123
+2,Madzia,S,madzia@gmail.com,madzia
+3,Mateusz,S,sawosz@gmail.com,abc
+4,abc,abc,asd@gmail.com,asd
